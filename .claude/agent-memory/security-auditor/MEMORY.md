@@ -1,0 +1,1 @@
+- [Portfolio site terraform/ state snapshot (2026-10-22)](project_portfolio_tf_state.md) — known gaps: no S3 encryption/versioning/logging, backend.tf state backend disabled, no response headers policy, default CF cert
